@@ -1,0 +1,72 @@
+RS2C_RECODE_AG_R,FORMAT3_LR3_FORMAT3_3_R,RSINFO_2_LR_R_2,RSINFO_2_LR_R_4,Frequency
+15-17 ans,D'un format court (Entre 5 et 20 minutes),Oui,Oui,0.4444444444444444
+15-17 ans,D'un format court (Entre 5 et 20 minutes),Non,Non,0.2777777777777778
+15-17 ans,D'un format court (Entre 5 et 20 minutes),Non,Oui,0.16666666666666666
+15-17 ans,D'un format court (Entre 5 et 20 minutes),Oui,Non,0.1111111111111111
+15-17 ans,D'un format long (Plus de 20 minutes),Oui,Oui,0.8333333333333334
+15-17 ans,D'un format long (Plus de 20 minutes),Oui,Non,0.16666666666666666
+15-17 ans,D'un format très court (moins de 5 minutes),Oui,Oui,0.47058823529411764
+15-17 ans,D'un format très court (moins de 5 minutes),Non,Non,0.23529411764705882
+15-17 ans,D'un format très court (moins de 5 minutes),Oui,Non,0.17647058823529413
+15-17 ans,D'un format très court (moins de 5 minutes),Non,Oui,0.11764705882352941
+18-24 ans,D'un format court (Entre 5 et 20 minutes),Oui,Oui,0.6595744680851063
+18-24 ans,D'un format court (Entre 5 et 20 minutes),Non,Oui,0.1702127659574468
+18-24 ans,D'un format court (Entre 5 et 20 minutes),Non,Non,0.10638297872340426
+18-24 ans,D'un format court (Entre 5 et 20 minutes),Oui,Non,0.06382978723404255
+18-24 ans,D'un format long (Plus de 20 minutes),Oui,Oui,0.75
+18-24 ans,D'un format long (Plus de 20 minutes),Oui,Non,0.08333333333333333
+18-24 ans,D'un format long (Plus de 20 minutes),Non,Non,0.08333333333333333
+18-24 ans,D'un format long (Plus de 20 minutes),Non,Oui,0.08333333333333333
+18-24 ans,D'un format très court (moins de 5 minutes),Oui,Oui,0.4583333333333333
+18-24 ans,D'un format très court (moins de 5 minutes),Non,Non,0.20833333333333334
+18-24 ans,D'un format très court (moins de 5 minutes),Oui,Non,0.16666666666666666
+18-24 ans,D'un format très court (moins de 5 minutes),Non,Oui,0.16666666666666666
+25-34 ans,D'un format court (Entre 5 et 20 minutes),Oui,Oui,0.44680851063829785
+25-34 ans,D'un format court (Entre 5 et 20 minutes),Non,Non,0.2553191489361702
+25-34 ans,D'un format court (Entre 5 et 20 minutes),Oui,Non,0.1702127659574468
+25-34 ans,D'un format court (Entre 5 et 20 minutes),Non,Oui,0.1276595744680851
+25-34 ans,D'un format long (Plus de 20 minutes),Oui,Oui,0.5882352941176471
+25-34 ans,D'un format long (Plus de 20 minutes),Oui,Non,0.17647058823529413
+25-34 ans,D'un format long (Plus de 20 minutes),Non,Oui,0.17647058823529413
+25-34 ans,D'un format long (Plus de 20 minutes),Non,Non,0.058823529411764705
+25-34 ans,D'un format très court (moins de 5 minutes),Oui,Oui,0.4166666666666667
+25-34 ans,D'un format très court (moins de 5 minutes),Oui,Non,0.25
+25-34 ans,D'un format très court (moins de 5 minutes),Non,Oui,0.16666666666666666
+25-34 ans,D'un format très court (moins de 5 minutes),Non,Non,0.16666666666666666
+35-44 ans,D'un format court (Entre 5 et 20 minutes),Non,Non,0.45454545454545453
+35-44 ans,D'un format court (Entre 5 et 20 minutes),Oui,Oui,0.3333333333333333
+35-44 ans,D'un format court (Entre 5 et 20 minutes),Oui,Non,0.15151515151515152
+35-44 ans,D'un format court (Entre 5 et 20 minutes),Non,Oui,0.06060606060606061
+35-44 ans,D'un format long (Plus de 20 minutes),Oui,Oui,0.625
+35-44 ans,D'un format long (Plus de 20 minutes),Non,Non,0.20833333333333334
+35-44 ans,D'un format long (Plus de 20 minutes),Oui,Non,0.125
+35-44 ans,D'un format long (Plus de 20 minutes),Non,Oui,0.041666666666666664
+35-44 ans,D'un format très court (moins de 5 minutes),Oui,Oui,0.375
+35-44 ans,D'un format très court (moins de 5 minutes),Non,Non,0.25
+35-44 ans,D'un format très court (moins de 5 minutes),Non,Oui,0.25
+35-44 ans,D'un format très court (moins de 5 minutes),Oui,Non,0.125
+45-59 ans,D'un format court (Entre 5 et 20 minutes),Non,Non,0.38636363636363635
+45-59 ans,D'un format court (Entre 5 et 20 minutes),Oui,Oui,0.3181818181818182
+45-59 ans,D'un format court (Entre 5 et 20 minutes),Oui,Non,0.1590909090909091
+45-59 ans,D'un format court (Entre 5 et 20 minutes),Non,Oui,0.13636363636363635
+45-59 ans,D'un format long (Plus de 20 minutes),Oui,Oui,0.7368421052631579
+45-59 ans,D'un format long (Plus de 20 minutes),Non,Non,0.10526315789473684
+45-59 ans,D'un format long (Plus de 20 minutes),Non,Oui,0.10526315789473684
+45-59 ans,D'un format long (Plus de 20 minutes),Oui,Non,0.05263157894736842
+45-59 ans,D'un format très court (moins de 5 minutes),Oui,Oui,0.4166666666666667
+45-59 ans,D'un format très court (moins de 5 minutes),Non,Non,0.3333333333333333
+45-59 ans,D'un format très court (moins de 5 minutes),Non,Oui,0.16666666666666666
+45-59 ans,D'un format très court (moins de 5 minutes),Oui,Non,0.08333333333333333
+60-69 ans,D'un format court (Entre 5 et 20 minutes),Non,Non,0.4444444444444444
+60-69 ans,D'un format court (Entre 5 et 20 minutes),Oui,Oui,0.2222222222222222
+60-69 ans,D'un format court (Entre 5 et 20 minutes),Oui,Non,0.2222222222222222
+60-69 ans,D'un format court (Entre 5 et 20 minutes),Non,Oui,0.1111111111111111
+60-69 ans,D'un format long (Plus de 20 minutes),Oui,Oui,0.75
+60-69 ans,D'un format long (Plus de 20 minutes),Non,Non,0.25
+60-69 ans,D'un format très court (moins de 5 minutes),Oui,Oui,0.75
+60-69 ans,D'un format très court (moins de 5 minutes),Non,Oui,0.25
+70 ans et +,D'un format court (Entre 5 et 20 minutes),Oui,Oui,0.3333333333333333
+70 ans et +,D'un format court (Entre 5 et 20 minutes),Non,Oui,0.3333333333333333
+70 ans et +,D'un format court (Entre 5 et 20 minutes),Oui,Non,0.3333333333333333
+70 ans et +,D'un format long (Plus de 20 minutes),Non,Oui,0.5
+70 ans et +,D'un format long (Plus de 20 minutes),Non,Non,0.5
